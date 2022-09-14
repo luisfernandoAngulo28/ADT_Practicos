@@ -1,0 +1,94 @@
+D:\EDI\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\cApp\bin\Debug\cApp.dll
+D:\EDI\cApp\bin\Debug\cApp.pdb
+D:\EDI\cApp\obj\Debug\cApp.dll
+D:\EDI\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\EDI\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI TADs\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI TADs\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI TADs\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\EDI TADs\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI TADs\cApp\obj\Debug\cApp.pdb
+L:\EDI TADs\cApp\bin\Debug\cApp.dll
+L:\EDI TADs\cApp\bin\Debug\cApp.pdb
+L:\EDI TADs\cApp\obj\Debug\ResolveAssemblyReference.cache
+L:\EDI TADs\cApp\obj\Debug\cApp.dll
+L:\EDI TADs\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI TADs modif2\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI TADs modif2\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI TADs modif2\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\EDI TADs modif2\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI TADs modif2\cApp\obj\Debug\cApp.pdb
+C:\Users\julio cesar\Desktop\EDI TADs modif2\cApp\bin\Debug\cApp.dll
+C:\Users\julio cesar\Desktop\EDI TADs modif2\cApp\bin\Debug\cApp.pdb
+C:\Users\julio cesar\Desktop\EDI TADs modif2\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\julio cesar\Desktop\EDI TADs modif2\cApp\obj\Debug\cApp.dll
+C:\Users\julio cesar\Desktop\EDI TADs modif2\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI TADs Proyect\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI TADs Proyect\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI TADs Proyect\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\EDI TADs Proyect\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI TADs Proyect\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI TADs Proyect2\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\EDI TADs Proyect2\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI TADs Proyect2\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\EDI TADs Proyect2\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\EDI TADs Proyect2\cApp\obj\Debug\cApp.pdb
+C:\Users\julio cesar\Desktop\EDI TADs Proyect2\cApp\bin\Debug\cApp.dll
+C:\Users\julio cesar\Desktop\EDI TADs Proyect2\cApp\bin\Debug\cApp.pdb
+C:\Users\julio cesar\Desktop\EDI TADs Proyect2\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\julio cesar\Desktop\EDI TADs Proyect2\cApp\obj\Debug\cApp.dll
+C:\Users\julio cesar\Desktop\EDI TADs Proyect2\cApp\obj\Debug\cApp.pdb
+C:\Users\Estudiante\Desktop\EDI TADs Ultimate\cApp\bin\Debug\cApp.dll
+C:\Users\Estudiante\Desktop\EDI TADs Ultimate\cApp\bin\Debug\cApp.pdb
+C:\Users\Estudiante\Desktop\EDI TADs Ultimate\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\EDI TADs Ultimate\cApp\obj\Debug\cApp.dll
+C:\Users\Estudiante\Desktop\EDI TADs Ultimate\cApp\obj\Debug\cApp.pdb
+C:\Users\Lab-214-21\Desktop\EDI TADs Ultimate2\cApp\bin\Debug\cApp.dll
+C:\Users\Lab-214-21\Desktop\EDI TADs Ultimate2\cApp\bin\Debug\cApp.pdb
+C:\Users\Lab-214-21\Desktop\EDI TADs Ultimate2\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab-214-21\Desktop\EDI TADs Ultimate2\cApp\obj\Debug\cApp.dll
+C:\Users\Lab-214-21\Desktop\EDI TADs Ultimate2\cApp\obj\Debug\cApp.pdb
+F:\200820249\cApp\bin\Debug\cApp.dll
+F:\200820249\cApp\bin\Debug\cApp.pdb
+F:\200820249\cApp\obj\Debug\ResolveAssemblyReference.cache
+F:\200820249\cApp\obj\Debug\cApp.dll
+F:\200820249\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\200820249\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\200820249\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\200820249\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\200820249\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\200820249\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\200820249 Mejorado\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\200820249 Mejorado\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\200820249 Mejorado\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\200820249 Mejorado\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\200820249 Mejorado\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\200820249 Ultimate\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\200820249 Ultimate\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\200820249 Ultimate\cApp\obj\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\200820249 Ultimate\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\200820249 Ultimate\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\200820249 Ultimate Pro\cApp\bin\Debug\cApp.dll
+C:\Users\Yenny\Desktop\200820249 Ultimate Pro\cApp\bin\Debug\cApp.pdb
+C:\Users\Yenny\Desktop\200820249 Ultimate Pro\cApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Yenny\Desktop\200820249 Ultimate Pro\cApp\obj\Debug\cApp.dll
+C:\Users\Yenny\Desktop\200820249 Ultimate Pro\cApp\obj\Debug\cApp.pdb
+L:\200820249 Ultimate Pro\cApp\bin\Debug\cApp.dll
+L:\200820249 Ultimate Pro\cApp\bin\Debug\cApp.pdb
+L:\200820249 Ultimate Pro\cApp\obj\Debug\cApp.dll
+L:\200820249 Ultimate Pro\cApp\obj\Debug\cApp.pdb
+D:\ING. INFORMATICA-187-3\SEMESTRE 4\Estructuras de datos_1_CAMPOS_2_2021\ESTRUCTURA DE DATOS 1\cApp\bin\Debug\cApp.dll
+D:\ING. INFORMATICA-187-3\SEMESTRE 4\Estructuras de datos_1_CAMPOS_2_2021\ESTRUCTURA DE DATOS 1\cApp\bin\Debug\cApp.pdb
+D:\ING. INFORMATICA-187-3\SEMESTRE 4\Estructuras de datos_1_CAMPOS_2_2021\ESTRUCTURA DE DATOS 1\cApp\obj\Debug\cApp.csprojAssemblyReference.cache
+D:\ING. INFORMATICA-187-3\SEMESTRE 4\Estructuras de datos_1_CAMPOS_2_2021\ESTRUCTURA DE DATOS 1\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+D:\ING. INFORMATICA-187-3\SEMESTRE 4\Estructuras de datos_1_CAMPOS_2_2021\ESTRUCTURA DE DATOS 1\cApp\obj\Debug\cApp.dll
+D:\ING. INFORMATICA-187-3\SEMESTRE 4\Estructuras de datos_1_CAMPOS_2_2021\ESTRUCTURA DE DATOS 1\cApp\obj\Debug\cApp.pdb
+E:\Universidad\ED1 Ing Ubaldo\2022\Tareas\Tema1\TP4-T1\cApp\obj\Debug\cApp.csprojAssemblyReference.cache
+E:\Universidad\ED1 Ing Ubaldo\2022\Tareas\Tema1\TP4-T1\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+E:\Universidad\ED1 Ing Ubaldo\2022\Tareas\Tema1\TP4-T1\cApp\obj\Debug\cApp.dll
+E:\Universidad\ED1 Ing Ubaldo\2022\Tareas\Tema1\TP4-T1\cApp\obj\Debug\cApp.pdb
